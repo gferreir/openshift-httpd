@@ -1,4 +1,5 @@
 FROM rhel:latest
+MAINTAINER Guilherme Ferreira - guilherme.nmf@gmail.com 
 EXPOSE 8080
 LABEL io.openshift.expose-services="8080:http"
 RUN yum install httpd -y && \
