@@ -1,6 +1,6 @@
 # Httpd Dockerfile instalation to Openshift
  
-## This project has the objective to show how to install a Apache server from Dockerfile to deploying on Openshift.
+## This project has the objective to show how to install a Apache server from Dockerfile to deploy on Openshift.
 
 ### The Dockerfile
 ```
@@ -24,9 +24,9 @@
 
 ***Line 3*** -> Metadates to Openshift
 
-***Line 4*** -> Bash commands which run in execution time inside the conatainer with objective install the Apache server
+***Line 4*** -> Bash commands that runs in execution time inside the conatainer with the objective of install the Apache server
 
-***Line 5*** -> Copying the frontend file which we will expose to Apache path
+***Line 5*** -> Copying the frontend file thst we'll expose to Apache path
 
 ***Line 6*** -> Configuring Apache port and permissions
 
