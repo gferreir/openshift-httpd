@@ -1,4 +1,4 @@
-FROM rhel:latest
+FROM docker.io/centos:latest
 MAINTAINER Guilherme Ferreira - guilherme.nmf@gmail.com 
 EXPOSE 8080
 LABEL io.openshift.expose-services="8080:http"
