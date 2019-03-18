@@ -1,6 +1,6 @@
 # Httpd Dockerfile instalation to Openshift
  
-## This project has the objective to show how to install a Apache server from Dockerfile to deploy on Openshift.
+This project has the objective to show how to install a Apache server from Dockerfile to deploy on Openshift.
 
 ### The Dockerfile
 ```
